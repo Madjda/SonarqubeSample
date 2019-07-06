@@ -1,0 +1,6 @@
+projectKey=tp3
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/tp3
+ceTaskId=AWbLZhtkfB8lrNQYfir8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWbLZhtkfB8lrNQYfir8
